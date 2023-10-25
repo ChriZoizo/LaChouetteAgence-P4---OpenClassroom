@@ -6,7 +6,12 @@ The exercise involves bringing the project in compliance with RGAA standards and
 
 ###Skills Evaluated
 Writing maintainable HTML and CSS code
+
 Ensuring the accessibility of a website
+
 Optimizing the size and speed of a website
+
 Implementing best practices in web development
+
 Enhancing the SEO of a website
+
